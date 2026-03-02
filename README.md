@@ -78,7 +78,7 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **1일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **1일차 (월)** | 샘터 | 골드 IV | https://www.acmicpc.net/problem/18513 |
 | **2일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **3일차 (수)** |  - | 골드  | https://www.acmicpc.net/problem/ |
 | **4일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
