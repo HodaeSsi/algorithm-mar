@@ -78,11 +78,10 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **1일차 (월)** | 샘터 | 골드 IV | https://www.acmicpc.net/problem/18513 |
-| **2일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **3일차 (수)** |  - | 골드  | https://www.acmicpc.net/problem/ |
-| **4일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **5일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **1일차 (화)** | 샘터 | 골드 IV | https://www.acmicpc.net/problem/18513 |
+| **2일차 (수)** | 전기가 부족해 | 골드 III | https://www.acmicpc.net/problem/10423 |
+| **3일차 (목)** |  - | 골드  | https://www.acmicpc.net/problem/ |
+| **4일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | - | 골드  | https://www.acmicpc.net/problem/ |
 
 ---
@@ -91,11 +90,11 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **6일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **7일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **8일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **9일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **10일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **5일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **6일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **7일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **8일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **9일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | - | 골드  | https://www.acmicpc.net/problem/ |
 
 ---
@@ -104,11 +103,11 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **11일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **12일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **13일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **14일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **15일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **10일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **11일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **12일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **13일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **14일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
 
 ---
@@ -117,11 +116,11 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **16일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **17일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **18일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **19일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **20일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **15일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **16일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **17일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **18일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **29일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
 
 ---
