@@ -80,7 +80,7 @@ algorithm-mar
 |:--:|:--|:--:|:--|
 | **1일차 (화)** | 샘터 | 골드 IV | https://www.acmicpc.net/problem/18513 |
 | **2일차 (수)** | 전기가 부족해 | 골드 III | https://www.acmicpc.net/problem/10423 |
-| **3일차 (목)** |  - | 골드  | https://www.acmicpc.net/problem/ |
+| **3일차 (목)** | 풍선 | 골드 I | https://www.acmicpc.net/problem/4716 |
 | **4일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | 사탕상자 | 플래티넘 V | https://www.acmicpc.net/problem/2243 |
 
