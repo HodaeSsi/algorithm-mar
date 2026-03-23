@@ -1,4 +1,4 @@
-# 🏃‍♂️ SSAFY 15기 10반 알고리즘 문제풀기 (3월)
+ # 🏃‍♂️ SSAFY 15기 10반 알고리즘 문제풀기 (3월)
 
 <div align="center">
 
@@ -117,7 +117,7 @@ algorithm-mar
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
 | **15일차 (월)** | 이모티콘 | 골드 IV | https://www.acmicpc.net/problem/14226 |
-| **16일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **16일차 (화)** | 조교의 맹연습 | 골드 IV | https://www.acmicpc.net/problem/27114 |
 | **17일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **18일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **29일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
