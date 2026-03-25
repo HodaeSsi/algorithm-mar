@@ -16,9 +16,9 @@ void solve(){
     for(int i=0;i<k+1;i++){
         for(int j=0;j<4;j++){
             if(dp[i][j] == 2000000000) continue;
-            if(i+a <= k) dp[i+a][(j+3)%4] = min(dp[i+a][(j+3)%4], dp[i][j] + 1);
-            if(i+b <= k) dp[i+b][(j+1)%4] = min(dp[i+b][(j+1)%4], dp[i][j] + 1);
-            if(i+c <= k) dp[i+c][(j+2)%4] = min(dp[i+c][(j+2)%4], dp[i][j] + 1);
+            if(i+a <= k) dp[i+a][(j+3)%4] = min(dp[i+a][(j+3)%4], dp[i][j] + 1); // 좌로 돌아
+            if(i+b <= k) dp[i+b][(j+1)%4] = min(dp[i+b][(j+1)%4], dp[i][j] + 1); // 우로 돌아
+            if(i+c <= k) dp[i+c][(j+2)%4] = min(dp[i+c][(j+2)%4], dp[i][j] + 1); // 뒤로 돌아
         }
     }
     if(dp[k][0] == 2000000000) cout << -1;
