@@ -129,8 +129,8 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **21일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **22일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **21일차 (월)** | 움직이는 미로 탈출 | 골드 III | https://www.acmicpc.net/problem/16954 |
+| **22일차 (화)** | 소형기관차 | 골드 III | https://www.acmicpc.net/problem/2616 |
 
 <br/>
 
